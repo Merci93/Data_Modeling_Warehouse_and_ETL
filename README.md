@@ -1,4 +1,5 @@
 # Description
+![]Diagrams/core_DB_workflow.png
 A data darehousing, data modeling and an ETL pipeline orchestrated using PostgreSQL and Pentaho Data Integration (PDI), a Hitachi Data Integration tool. The project entails using the Pentaho Data Integration tool with PostgreSQL to model a data warehouse/database, and develop an ETL pipeline to extract data from publicly available sources, load the data into the staging DB, perform transformations on the data and finally load the transformed data into the core/main database.
 
 ## Steps:
