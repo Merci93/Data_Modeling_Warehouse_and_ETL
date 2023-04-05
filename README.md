@@ -22,7 +22,7 @@ An end-to-end data engineering and analytics project involving darehousing, data
 ![](Diagrams/core_DB_workflow.png)
 
 ### Database Schema
-![](DIagrams/power_BI_schema.png)
+![](Diagrams/power_BI_schema.png)
 
 ### Power BI Visualization
 ![](Visualization/sales_chart.png)
