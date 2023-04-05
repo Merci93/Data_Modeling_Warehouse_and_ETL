@@ -315,7 +315,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:\Users\David Ugochi Asogwa\Documents\Folders\GitHub\ETL_Data_Modeling_DWH\workflows\last_loaded_data.ktr</filename>
+      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Job/workflows/last_loaded_data.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -335,7 +335,7 @@
       <follow_abort_remote>N</follow_abort_remote>
       <create_parent_folder>N</create_parent_folder>
       <logging_remote_work>N</logging_remote_work>
-      <run_configuration/>
+      <run_configuration>Pentaho Local</run_configuration>
       <suppress_result_data>N</suppress_result_data>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
@@ -354,7 +354,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:\Users\David Ugochi Asogwa\Documents\Folders\GitHub\ETL_Data_Modeling_DWH\workflows\load_products.ktr</filename>
+      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Job/workflows/load_products.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -393,7 +393,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:\Users\David Ugochi Asogwa\Documents\Folders\GitHub\ETL_Data_Modeling_DWH\workflows\load_payment_mode.ktr</filename>
+      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Job/workflows/load_payment_mode.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -432,7 +432,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:\Users\David Ugochi Asogwa\Documents\Folders\GitHub\ETL_Data_Modeling_DWH\workflows\load_sales_person.ktr</filename>
+      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Job/workflows/load_sales_person.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -471,7 +471,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Data_Modeling_DWH/workflows/load_customers.ktr</filename>
+      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Job/workflows/load_customers.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
@@ -491,7 +491,7 @@
       <follow_abort_remote>N</follow_abort_remote>
       <create_parent_folder>N</create_parent_folder>
       <logging_remote_work>N</logging_remote_work>
-      <run_configuration/>
+      <run_configuration>Pentaho local</run_configuration>
       <suppress_result_data>N</suppress_result_data>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
@@ -510,7 +510,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Data_Modeling_DWH/workflows/load_facts_data.ktr</filename>
+      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Job/workflows/load_facts_data.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>

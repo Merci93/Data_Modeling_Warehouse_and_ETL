@@ -315,7 +315,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <job_object_id/>
-      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Data_Modeling_DWH/workflows/staging_job.kjb</filename>
+      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Job/workflows/staging_job.kjb</filename>
       <jobname/>
       <directory/>
       <arg_from_previous>N</arg_from_previous>
@@ -333,7 +333,7 @@
       <expand_remote_job>N</expand_remote_job>
       <create_parent_folder>N</create_parent_folder>
       <pass_export>N</pass_export>
-      <run_configuration/>
+      <run_configuration>Pentaho Local</run_configuration>
       <parameters>
         <pass_all_parameters>Y</pass_all_parameters>
       </parameters>
@@ -352,7 +352,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <job_object_id/>
-      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Data_Modeling_DWH/workflows/core_job.kjb</filename>
+      <filename>C:/Users/David Ugochi Asogwa/Documents/Folders/GitHub/ETL_Job/workflows/core_job.kjb</filename>
       <jobname/>
       <directory/>
       <arg_from_previous>N</arg_from_previous>
@@ -389,7 +389,7 @@
       <to>staging</to>
       <from_nr>0</from_nr>
       <to_nr>0</to_nr>
-      <enabled>Y</enabled>
+      <enabled>N</enabled>
       <evaluation>Y</evaluation>
       <unconditional>Y</unconditional>
     </hop>
