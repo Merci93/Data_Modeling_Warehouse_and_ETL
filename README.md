@@ -17,6 +17,8 @@ A data darehousing, data modeling and an ETL pipeline orchestrated using Postgre
 	2. Creating additional columns for data aggregation.
 - Loading data into core/main data warehouse/database for analytical purposes using PowerBI, Tableau or Excel.
 
+![](Diagrams/core_DB_workflow.png)
+
 # Files
 Diagrams on the scheduling and modeling can be found in the **Diagrams** section of the repository above. The **workflows** section contains all the transformations and jobs performed in PDI, while the **DWH_ETL.sql** and **transformations.sql** contains the SQL functions used for creating the database schema, tables including facts and dimension tables and all the transformations and extraction queries used in PDI.
 
