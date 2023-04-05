@@ -1,5 +1,5 @@
 # Description
-An end-to-end data engineering and analytics project involving darehousing, data modeling, ETL pipeline, and visualization orchestrated using PostgreSQL, Pentaho Data Integration (PDI), a Hitachi Data Integration tool, and Microsoft Power BI desktop. The project entails using the Pentaho Data Integration tool with PostgreSQL to model a data warehouse/database, and develop an ETL pipeline to extract data from publicly available sources, load the data into the staging DB, perform transformations on the data and finally load the transformed data into the core/main database.
+An end-to-end data engineering and analytics project involving warehousing, data modeling, ETL pipeline, and visualization orchestrated using PostgreSQL, Pentaho Data Integration (PDI), a Hitachi Data Integration tool, and Microsoft Power BI desktop. The project entails using the Pentaho Data Integration tool with PostgreSQL to model a data warehouse/database, and develop an ETL pipeline to extract data from publicly available sources, load the data into the staging DB, perform transformations on the data and finally load the transformed data into the core/main database.
 
 ## Steps:
 - Installation and configuration of PostgreSQL 15 and Pentaho Data Integration tool.
